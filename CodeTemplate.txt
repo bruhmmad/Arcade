@@ -6,20 +6,17 @@ CODE TEMPLATE:
 //Hammad Naqui
 
 
-
 if (player dies) {
     play "vine boom sound effect";
 } else {
     play "bruh sound effect #2";
 }
 
-
 if (enemy dies) {
     give player 100xp;
 } else {
     give player nothing;
 }
-
 
 if (player presses space bar) {
     player jumps;
