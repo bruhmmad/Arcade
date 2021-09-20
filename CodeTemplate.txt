@@ -2,9 +2,9 @@ CODE TEMPLATE:
 //This is a single line comment (notes that won't be read as instructions to the computer).
 //Different syntax is used for comments depending on the language.
 
-
 //Bruh 21 FPS
 //Hammad Naqui
+
 
 
 if (player dies) {
