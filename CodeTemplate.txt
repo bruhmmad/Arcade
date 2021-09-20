@@ -2,11 +2,10 @@ CODE TEMPLATE:
 //This is a single line comment (notes that won't be read as instructions to the computer).
 //Different syntax is used for comments depending on the language.
 
+
 //Bruh 21 FPS
 //Hammad Naqui
 
-//If the character you are playing dies, the vine boom sound effect plays.
-//If anyone else dies besides you, the bruh sound effect #2 plays.
 
 if (player dies) {
     play "vine boom sound effect";
@@ -14,8 +13,6 @@ if (player dies) {
     play "bruh sound effect #2";
 }
 
-//If the enemy dies, the player gets 100xp,
-//If the enemy does not die, the player gets nothing  
 
 if (enemy dies) {
     give player 100xp;
@@ -23,8 +20,6 @@ if (enemy dies) {
     give player nothing;
 }
 
-//If the player presses space bar, they jump
-//If the player does not press space bar, they stay on the ground
 
 if (player presses space bar) {
     player jumps;
